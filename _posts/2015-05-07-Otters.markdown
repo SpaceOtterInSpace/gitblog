@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Otters"
+date:   2015-05-07
+categories: otter
+---
+
+Otter is a common name for a carnivorous mammal in subfamily Lutrinae. The 13 extant otter species are all semiaquatic, aquatic or marine, with diets based on fish and invertebrates. Lutrinae is a branch of the weasel family Mustelidae, which also includes weasels, martens, minks, polecats, Eurasian and American badgers, honey badgers and wolverines.
