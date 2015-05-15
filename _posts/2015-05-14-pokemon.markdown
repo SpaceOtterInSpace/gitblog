@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Pokemon"
+date:   2015-05-14
+categories: pokemon
+---
+
+pokemon are awesome
